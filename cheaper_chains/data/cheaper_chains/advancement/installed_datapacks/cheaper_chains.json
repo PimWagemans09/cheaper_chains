@@ -1,0 +1,17 @@
+{
+  "display": {
+    "title": "Cheaper Chains",
+    "description": "The chain crafting recipe now gives you 3 chains instead of one.",
+    "icon": {
+      "id": "minecraft:chain"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "pim_wagemans:installed_datapacks/root",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
