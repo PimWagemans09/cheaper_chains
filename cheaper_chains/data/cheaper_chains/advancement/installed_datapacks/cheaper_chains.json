@@ -1,9 +1,9 @@
 {
   "display": {
     "title": "Cheaper Chains",
-    "description": "The chain crafting recipe now gives you 3 chains instead of one.",
+    "description": "The iron/copper chain crafting recipe now gives you 3 chains instead of one.",
     "icon": {
-      "id": "minecraft:chain"
+      "id": "minecraft:iron_chain"
     },
     "show_toast": false,
     "announce_to_chat": false

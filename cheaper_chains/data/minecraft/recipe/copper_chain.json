@@ -7,11 +7,11 @@
     "N"
   ],
   "key": {
-    "I": "minecraft:iron_ingot",
-    "N": "minecraft:iron_nugget"
+    "I": "minecraft:copper_ingot",
+    "N": "minecraft:copper_nugget"
   },
   "result": {
-    "id": "minecraft:chain",
+    "id": "minecraft:copper_chain",
     "count": 3
   }
 }
